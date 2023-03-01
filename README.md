@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Itsnotareeb
+- 👋 Hi, I’m Areeb Ansari
 - 👀 I’m interested in python, C, C++, Python, Html. CSS, Web Development, 
 - 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to collaborate on Web development and software development projects 
